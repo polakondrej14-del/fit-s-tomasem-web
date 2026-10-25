@@ -1,0 +1,8 @@
+{
+  "$schema": "https://unpkg.com/wrangler/config-schema.json",
+  "name": "fit-s-tomasem-web",
+  "compatibility_date": "2026-10-25",
+  "assets": {
+    "directory": "./public"
+  }
+}
